@@ -1,0 +1,38 @@
+.header{
+    height: 300px;
+    /* background-color: bisque;
+     */
+     /* background-image: url("cat1.jpg"); */
+     /* background-repeat: repeat-y; */
+     /* background-size: cover;
+      */
+      /* background-size: contain; */
+      /* height:  500px;
+       */
+      /* width: 400px; */
+      background-image: url(../fish.jpg);
+}
+
+
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+}
+.blog
+{
+    margin: 10px;
+    border: 10px solid thistle;
+    box-shadow:10px 10px 30px blue ;
+}
+.ice{
+    border: 3px solid red;
+    /* display: block; */
+    /* height: 50px; */
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+li{
+    display: inline;
+}
